@@ -15,7 +15,7 @@ Saya menggunakan bahasa pemrograman PHP dengan menggunakan saran dari soal yaitu
 Jika ingin mengganti input username maupun password, bisa langsung diganti dibagian bawah function.
 
 #Soal 3
-Saya menggunakan bahasa pemrograman PHP dengan menggunakan fungsi bawaan yaitu substr_count, dimana fungsi tersebut akan menghitung string yang tertentu yang kita inputkan.
+Saya menggunakan bahasa pemrograman PHP dengan menggunakan fungsi bawaan yaitu substr_count, dimana fungsi tersebut akan menghitung string  tertentu yang kita inputkan.
 
 #Soal 4
 Saya menggunakan bahasa pemrograman PHP dengan menggunakan pengulangan for untuk mencetak baris maupun kolom sesuai soal.
