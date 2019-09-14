@@ -23,6 +23,7 @@ Saya menggunakan bahasa pemrograman PHP dengan menggunakan pengulangan for untuk
 #Soal 5
 Saya menggunakan bahasa pemrograman PHP dengan menggunakan fungsi bawaan dari PHP yaitu substr untuk mengambil beberapa karakternya,
  dan str_shuffle untuk meng-acak string yang akan dieksekusi.
+ 
 #Soal 6
 Saya menggunakan HTML, CSS, PHP, Bootstrap.
 Untuk folder 6a , langsung jalankan saja untuk mencobanya.
